@@ -1,6 +1,6 @@
 # Gradio vLLM Hugging Face
 
-Gradio Frontend using vLLM to download and deploy Hugging Face models. CRUD REST API using Docker SDK and Redis.
+Gradio Frontend using vLLM 
 
 ### Installation
 
